@@ -1,0 +1,14 @@
+C:\Users\win10\Desktop\exercicios1\tabuada\bin\Debug\net10.0\tabuada.exe
+C:\Users\win10\Desktop\exercicios1\tabuada\bin\Debug\net10.0\tabuada.deps.json
+C:\Users\win10\Desktop\exercicios1\tabuada\bin\Debug\net10.0\tabuada.runtimeconfig.json
+C:\Users\win10\Desktop\exercicios1\tabuada\bin\Debug\net10.0\tabuada.dll
+C:\Users\win10\Desktop\exercicios1\tabuada\bin\Debug\net10.0\tabuada.pdb
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\tabuada.AssemblyInfo.cs
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\tabuada.dll
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\refint\tabuada.dll
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\tabuada.pdb
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\tabuada.genruntimeconfig.cache
+C:\Users\win10\Desktop\exercicios1\tabuada\obj\Debug\net10.0\ref\tabuada.dll

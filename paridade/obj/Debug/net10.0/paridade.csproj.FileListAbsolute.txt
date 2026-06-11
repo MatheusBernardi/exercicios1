@@ -1,0 +1,14 @@
+C:\Users\win10\Desktop\exercicios1\paridade\bin\Debug\net10.0\paridade.exe
+C:\Users\win10\Desktop\exercicios1\paridade\bin\Debug\net10.0\paridade.deps.json
+C:\Users\win10\Desktop\exercicios1\paridade\bin\Debug\net10.0\paridade.runtimeconfig.json
+C:\Users\win10\Desktop\exercicios1\paridade\bin\Debug\net10.0\paridade.dll
+C:\Users\win10\Desktop\exercicios1\paridade\bin\Debug\net10.0\paridade.pdb
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\paridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\paridade.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\paridade.AssemblyInfo.cs
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\paridade.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\paridade.dll
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\refint\paridade.dll
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\paridade.pdb
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\paridade.genruntimeconfig.cache
+C:\Users\win10\Desktop\exercicios1\paridade\obj\Debug\net10.0\ref\paridade.dll

@@ -1,0 +1,14 @@
+C:\Users\win10\Desktop\exercicios1\maioridade\bin\Debug\net10.0\maioridade.exe
+C:\Users\win10\Desktop\exercicios1\maioridade\bin\Debug\net10.0\maioridade.deps.json
+C:\Users\win10\Desktop\exercicios1\maioridade\bin\Debug\net10.0\maioridade.runtimeconfig.json
+C:\Users\win10\Desktop\exercicios1\maioridade\bin\Debug\net10.0\maioridade.dll
+C:\Users\win10\Desktop\exercicios1\maioridade\bin\Debug\net10.0\maioridade.pdb
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\maioridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\maioridade.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\maioridade.AssemblyInfo.cs
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\maioridade.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\maioridade.dll
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\refint\maioridade.dll
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\maioridade.pdb
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\maioridade.genruntimeconfig.cache
+C:\Users\win10\Desktop\exercicios1\maioridade\obj\Debug\net10.0\ref\maioridade.dll
